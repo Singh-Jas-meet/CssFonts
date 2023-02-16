@@ -1,0 +1,2 @@
+# SmallProject
+Nothing much complicated
