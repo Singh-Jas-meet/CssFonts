@@ -1,0 +1,84 @@
+@font-face {
+    font-family: FeltCondolences-3zV06;
+    src: url("../Fonts/FeltCondolences-3zV06.otf");
+
+}
+
+@font-face {
+    font-family: PleaseDontLeaveNbp-0Led;
+    src: url("../Fonts/PleaseDontLeaveNbp-0Led.ttf");
+}
+
+
+
+@font-face {
+    font-family: StencilovePersonalUseRegular-WyerY;
+    src: url("../Fonts/StencilovePersonalUseRegular-WyerY.ttf");
+
+}
+
+h1 {
+    text-decoration: none;
+    color: #faf9f6;
+    font-family: StencilovePersonalUseRegular-WyerY;
+    text-decoration-line: line-through;
+    size: 190px;
+    text-align: center;
+}
+
+body {
+    background-image: url("../Images/jake-weirick-AAC1wxoh8Ig-unsplash.jpg");
+    background-size: cover;
+}
+
+#para1 {
+
+    font-family: PleaseDontLeaveNbp-0Led;
+    font-size: 29px;
+}
+
+#para2,
+#para4 {
+    font-family: FeltCondolences-3zV06;
+    font-size: 34px;
+}
+
+#para3 {
+    font-family: Georgia, Times New Roman, Times, 'serif';
+    font-size: 27px;
+}
+
+#para5 {
+    font-family: Courier New, 'Courier', monospace;
+    font-size: 27px;
+}
+
+
+main {
+    text-align: center;
+
+    margin: 50px 400px;
+    color: white;
+}
+
+
+
+section {
+    text-align: center;
+    position: sticky;
+    top: 0;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #faf9f6;
+    font-family: StencilovePersonalUseRegular-WyerY;
+    text-decoration-line: line-through;
+    size: 15px;
+}
+
+footer {
+    text-align: left;
+    color: white;
+}
